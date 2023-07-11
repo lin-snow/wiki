@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://wiki.linsnow.cn/rss.xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://wiki.linsnow.cn/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>L1nSn0w的第二个大脑</title>
+    <link>https://wiki.linsnow.cn/</link>
+    <description>热爱可抵漫长岁月！</description>
+    <language>zh-CN</language>
+    <pubDate>Tue, 11 Jul 2023 14:56:50 GMT</pubDate>
+    <lastBuildDate>Tue, 11 Jul 2023 14:56:50 GMT</lastBuildDate>
+    <generator>vuepress-plugin-feed2</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>写在前面</title>
+      <link>https://wiki.linsnow.cn/coding/</link>
+      <guid>https://wiki.linsnow.cn/coding/</guid>
+      <source url="https://wiki.linsnow.cn/rss.xml">写在前面</source>
+      <description>前言 这里存放着L1nSn0w的学习笔记。</description>
+      <content:encoded><![CDATA[<h2> 前言</h2>
+<p>这里存放着L1nSn0w的学习笔记。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第一个程序C++</title>
+      <link>https://wiki.linsnow.cn/coding/cpp/hellocpp.html</link>
+      <guid>https://wiki.linsnow.cn/coding/cpp/hellocpp.html</guid>
+      <source url="https://wiki.linsnow.cn/rss.xml">第一个程序C++</source>
+      <description>HelloWorld 第一个程序C++</description>
+      <content:encoded><![CDATA[<h2> HelloWorld</h2>
+<p>第一个程序C++</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>什么是C++</title>
+      <link>https://wiki.linsnow.cn/coding/cpp/wahtiscpp.html</link>
+      <guid>https://wiki.linsnow.cn/coding/cpp/wahtiscpp.html</guid>
+      <source url="https://wiki.linsnow.cn/rss.xml">什么是C++</source>
+      <description>C++简介</description>
+      <content:encoded><![CDATA[<h2> C++简介</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>进阶C语言</title>
+      <link>https://wiki.linsnow.cn/coding/c/cadvance/cjinjie.html</link>
+      <guid>https://wiki.linsnow.cn/coding/c/cadvance/cjinjie.html</guid>
+      <source url="https://wiki.linsnow.cn/rss.xml">进阶C语言</source>
+      <description>进阶C语言</description>
+      <content:encoded><![CDATA[<h2> 进阶C语言</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第一个程序</title>
+      <link>https://wiki.linsnow.cn/coding/c/cprimary/helloworld.html</link>
+      <guid>https://wiki.linsnow.cn/coding/c/cprimary/helloworld.html</guid>
+      <source url="https://wiki.linsnow.cn/rss.xml">第一个程序</source>
+      <description>Hello World ```c #include int main() { / 我的第一个 C 程序 / printf(&amp;quot;Hello, World! \n&amp;quot;); return 0; } ```</description>
+      <content:encoded><![CDATA[<h2> Hello World</h2>
+<div class="language-c line-numbers-mode" data-ext="c"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>什么是C语言</title>
+      <link>https://wiki.linsnow.cn/coding/c/cprimary/whatisc.html</link>
+      <guid>https://wiki.linsnow.cn/coding/c/cprimary/whatisc.html</guid>
+      <source url="https://wiki.linsnow.cn/rss.xml">什么是C语言</source>
+      <description>C语言简介 C 语言是一种通用的高级语言，最初是由丹尼斯·里奇在贝尔实验室为开发 UNIX 操作系统而设计的。C 语言最开始是于 1972 年在 DEC PDP-11 计算机上被首次实现。 在 1978 年，布莱恩·柯林汉（Brian Kernighan）和丹尼斯·里奇（Dennis Ritchie）制作了 C 的第一个公开可用的描述，现在被称为 K&amp;...</description>
+      <content:encoded><![CDATA[<h2> C语言简介</h2>
+<p>C 语言是一种通用的高级语言，最初是由丹尼斯·里奇在贝尔实验室为开发 UNIX 操作系统而设计的。C 语言最开始是于 1972 年在 DEC PDP-11 计算机上被首次实现。</p>
+<p>在 1978 年，布莱恩·柯林汉（Brian Kernighan）和丹尼斯·里奇（Dennis Ritchie）制作了 C 的第一个公开可用的描述，现在被称为 K&amp;R 标准。</p>
+<p>UNIX 操作系统，C编译器，和几乎所有的 UNIX 应用程序都是用 C 语言编写的。由于各种原因，C 语言现在已经成为一种广泛使用的专业语言。</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
